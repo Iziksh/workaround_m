@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <test>
+        <ChromePath>C:/java projects/chromedriver_win32/chromedriver</ChromePath>
+        <image_path>/Users/izik/Desktop/wa/wa_image.png</image_path>
+    </test>
+</menu>
